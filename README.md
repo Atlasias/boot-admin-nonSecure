@@ -1,3 +1,3 @@
 # boot-admin-nonSecure
-maven based spring boot admin client
+an example of maven based spring boot admin client
 using none spring security
